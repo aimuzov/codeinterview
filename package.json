@@ -1,0 +1,15 @@
+{
+	"name": "codeinterview",
+	"version": "1.0.0",
+	"description": "Codeinterview tasks",
+	"scripts": {
+		"test": "jest",
+		"test:watch": "jest --watchAll"
+	},
+	"author": "Aleksey Imuzov <github@aimuzov.online>",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "29.7.0",
+		"prettier": "3.2.5"
+	}
+}
